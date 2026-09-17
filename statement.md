@@ -27,3 +27,4 @@ The **Disaster Relief & Supply Chain Allocation Engine** is a specialized logist
 - **Atomic Stock Reservation:** Guarantees inventory counts update immediately upon dispatch generation, preventing accidental double-allocation of stock.
 - **Real-Time Desktop Dashboard:** Dual-table Swing dashboard displaying real-time warehouse inventory alongside categorized camp demands.
 - **Standardized Data Export:** One-click CSV manifest generation ensuring compatibility with third-party logistics tools and field driver manifests.
+ 
